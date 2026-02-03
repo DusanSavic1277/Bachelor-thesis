@@ -45,7 +45,7 @@ Main components of the project include:
 - Entity classes(Player, NPCs, Enemies)
 
 ## How to Run
-1. Open the project in NetBeans
+1. Open the project in any Java IDE(IntelliJ IDEA, Eclipse, NetBeans)
 2. Make sure Java JDK is installed
 3. Build the project using Ant
 4. Run the `Main` class
