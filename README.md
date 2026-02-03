@@ -44,6 +44,10 @@ Main components of the project include:
 - `GameState` control of game flow and states
 - Entity classes(Player, NPCs, Enemies)
 
+## Architecture
+The project follows a layered architecture with elements inspired by the Model View Controller (MVC) pattern.
+Although it is not a strict MVC implementation, the responsibilities are clearly separated into logical layers, which improves readability, maintainability, and scalability of the codebase.
+
 ## How to Run
 1. Open the project in any Java IDE(IntelliJ IDEA, Eclipse, NetBeans)
 2. Make sure Java JDK is installed
