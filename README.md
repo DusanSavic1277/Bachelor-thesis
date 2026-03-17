@@ -20,8 +20,7 @@ The main goal of the project is to demonstrate practical knowledge of Java SE, g
 - BufferedImage sprite and tile rendering
 - Clip(javax.sound.sampled) sound and music
 - Object Oriented Programming (OOP)
-
-> No external libraries or game engines were used.
+(No external libraries or game engines were used)
 
 ##Features
 - Main menu(New Game/Quit)
