@@ -33,7 +33,7 @@ public class CutsceneManager {
         newGameMessage = "Kao osnova za ovaj projekat korišćen je video\n"
                 + "tutorijal sa YouTube kanala RyiSnow, koji predstavlja\n"
                 + "kompletan proces izrade jednostavne 2D igre u Javi.\n"
-                + "Ovaj šasblon je iskorišćen kao tehnički temelj\n"
+                + "Ovaj šablon je iskorišćen kao tehnički temelj\n"
                 + "na kome su vršene adaptacije, proširenja i prilagođavanja\n"
                 + "u skladu sa ciljevima ovog rada.";
         
