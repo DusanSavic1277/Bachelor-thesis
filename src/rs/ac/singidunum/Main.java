@@ -2,12 +2,15 @@ package rs.ac.singidunum;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
 
 public class Main {
 
     public static JFrame window;
 
     public static void main(String[] args) {
+        
+        SwingUtilities.invokeLater(() -> {
 
         window = new JFrame("Diplomski rad - Dušan Savić 2021200044");
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -23,6 +26,8 @@ public class Main {
 
         gp.setupGame();
         gp.startGameThread();
+        
+        });
     }
 
     public void setIcon() {
